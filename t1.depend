@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1713288622 source:c:\users\gabri\downloads\t1\t1\main_antenas.c
+	<stdio.h>
+	<float.h>
+	"trabalho1.h"
+
+1714061555 c:\users\gabri\downloads\t1\t1\trabalho1.h
+
+1714062019 source:c:\users\gabri\downloads\t1\t1\trabalho1.c
+	<stdio.h>
+	<stdlib.h>
+	"trabalho1.h"
+
